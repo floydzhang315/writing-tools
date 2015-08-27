@@ -1,3 +1,4 @@
-# First Chapter
+# 为什么要写这本书
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+目前，网上流行的写作工具很多，比如极客学院 Wiki、简书、Gitbook、看云、乐书、leanpub等，各有所长。本书希望通过对这些工具的分析，给读者和一些做在线教育的机构和个人做些参考，帮助大家很快的从多个工具中选择一款最适合自己的写作工具，自由自在的写书。
+
